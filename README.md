@@ -9,7 +9,6 @@ https://www.apachefriends.org/download.html
 2. Clone โปรเจคนี้:
    ```bash
    git clone -b Mockupdata https://github.com/your-repo/easy-parking.git
-   cd Easy_Parking
    ```
 
 ## Download Data Mockup
@@ -26,6 +25,7 @@ https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sha
 
 ## Using this commands for run project
 ```
+cd Easy_Parking
 pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
