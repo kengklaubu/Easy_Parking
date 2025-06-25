@@ -2,7 +2,7 @@
 
 ## ขั้นตอนการติดตั้ง
 
-1. ติดตั้ง Python และ MariaDB บนเครื่องของคุณ
+1. ติดตั้ง Xampp บนเครื่องของคุณ
 2. Run CMD as administrator และใช้คำสั่งด้านล่าง
 ```
    net start MariaDB
@@ -17,9 +17,9 @@
 pip install -r requirements.txt
 ```
 
-## load data commands 
+## download data
 ```
-(https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sharing)
+https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sharing
 ```
-##  Dont forget to net start MariaDB on CMD 
+
 
