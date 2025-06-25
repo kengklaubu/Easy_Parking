@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sha
 ## ขั้นตอนการ Mockup Data
 ```
 เมื่อดาวโหลด data มาแล้วให้ทำการสร้าง database ที่ชื่อว่า easyparking บน phpMyaAmin
-จากนั้นให้ทำการ Import database ที่ดาวโหลดมาลงไปใน database ที่สร้างไว้ก่อนหน้านี้
+จากนั้นให้ทำการ Import database ที่ดาวโหลดมา ลงไปใน database ที่สร้างไว้ก่อนหน้านี้
 
 ```
 
