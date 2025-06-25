@@ -20,5 +20,5 @@ pip install -r requirements.txt
 ```
 https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sharing
 ```
-
+เมื่อดาวโหลด data มาแล้วให้ทำการสร้าง database ที่ชื่อว่า easyparking บน phpMyaAmin จากนั้นให้ทำการ Import database ที่ดาวโหลดมาลงไปใน database 
 
