@@ -11,14 +11,22 @@ https://www.apachefriends.org/download.html
    git clone -b Mockupdata https://github.com/your-repo/easy-parking.git
    cd Easy_Parking
    ```
-## Firststep Use comands 
-```
-pip install -r requirements.txt
-```
 
-## download data
+## Download Data Mockup
 ```
 https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sharing
 ```
+
+## ขั้นตอนการ Mockup Data
+```
 เมื่อดาวโหลด data มาแล้วให้ทำการสร้าง database ที่ชื่อว่า easyparking บน phpMyaAmin จากนั้นให้ทำการ Import database ที่ดาวโหลดมาลงไปใน database 
 
+```
+
+## Using this commands for run project
+```
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
