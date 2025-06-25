@@ -4,7 +4,7 @@
 
 1. ติดตั้ง Xampp บนเครื่องของคุณ
 ```
-   net start MariaDB
+https://www.apachefriends.org/download.html
 ```
 2. Clone โปรเจคนี้:
    ```bash
