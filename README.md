@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## load data commands 
 ```
-[python manage.py load_mockup_data](https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sharing)
+(https://drive.google.com/drive/folders/1RG8kOw1wok6VPlOCsVyzghTKZauzojdB?usp=sharing)
 ```
 ##  Dont forget to net start MariaDB on CMD 
 
