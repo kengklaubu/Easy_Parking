@@ -11,7 +11,7 @@ https://www.apachefriends.org/download.html
 ```
 2. Clone โปรเจคนี้:
    ```bash
-   git clone -b main https://github.com/your-repo/easy-parking.git
+   git clone -b main https://github.com/kengklaubu/Easy_Parking.git
    ```
 
 ## Download Data Mockup
