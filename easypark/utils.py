@@ -28,11 +28,13 @@ def update_parking_status(rois, detections, location_name):
 
         for _, row in detections.iterrows():
             label = row['name']
-            #print("label",label)
+            
             x1, y1, x2, y2 = int(row['xmin']), int(row['ymin']), int(row['xmax']), int(row['ymax'])
-            if label == 'car' or label == 'truck' and (x1 < x + w and x2 > x and y1 < y + h and y2 > y):
-                detected = True
-                break
+            if label == 'car':
+                if (x1 < x + w) and (x2 > x) and (y1 < y + h) and (y2 > y):
+                    detected = True
+                    break
+
 
         
 
